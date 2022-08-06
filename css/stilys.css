@@ -392,13 +392,11 @@ img {
 .adress-item:last-child {
 	margin-bottom: 0;
 }
-
 .footer-conteiner {
 	display: flex;
 	gap: 70px;
 	align-items: baseline;
 }
-
 .footer-soc {
 	margin-left: 90px;
 }
@@ -416,7 +414,6 @@ img {
 	margin-top: 0;
 	margin-bottom: 20px;
 }
-
 .footer-soc-link {
 	width: 44px;
 	height: 44px;
@@ -426,7 +423,6 @@ img {
 	align-items: center;
 	justify-content: center;
 }
-
 .footer-soc-link:hover {
 	background-color: var(--accent-text-color);
 }
