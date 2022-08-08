@@ -345,7 +345,7 @@ img {
 	fill: #afb1b8;
 }
 .client-link:hover {
-	border: 1px solid var(--accent-text-color);
+	border-color: var(--accent-text-color);
 }
 .client-link:hover .client-icon {
 	fill: var(--accent-text-color);
@@ -397,9 +397,7 @@ img {
 	gap: 70px;
 	align-items: baseline;
 }
-.footer-soc {
-	margin-left: 90px;
-}
+
 .footer-soc-list {
 	display: flex;
 	gap: 10px;
